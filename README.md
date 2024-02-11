@@ -1,6 +1,7 @@
 
 
-<h1> Today is Nonriday
+<h1> Today is Nonriday 게임개발자 지망생</h1>
+
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=todaynonri)](https://solved.ac/todaynonri)
 <br />
