@@ -2,7 +2,7 @@
 
 <h1> Today is Nonriday
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=todaynonri)](https://solved.ac/todaynonri)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=todaynonri)](https://solved.ac/todaynonri)
 <br />
 <h2> My tech stack 📚 </h2>
 
