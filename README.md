@@ -6,7 +6,7 @@
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=todaynonri)](https://solved.ac/todaynonri)  
 
-![TodayNonri's GitHub stats](https://github-readme-stats.vercel.app/api?username=TodayNonri&show_icons=true&theme=white)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TodayNonri)](https://github.com/TodayNonri/github-readme-stats)
 
 <h3>포트폴리오 영상▼</h3>
 
