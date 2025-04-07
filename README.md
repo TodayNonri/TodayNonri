@@ -4,7 +4,7 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-k.yelae95@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:k.yelae95@gmail.com)](mailto:k.yelae95@gmail.com) [![Github Badge](https://img.shields.io/badge/-TodayNonri-grey?style=flat&logo=github&logoColor=white&link=https://github.com/TodayNonri/)](https://www.github.com/TodayNonri/) <p align='left'></p><p align='left'> my tistory <a href='https://nonris.tistory.com/ ' target=_blank><u>here</u>.</a></p>
 
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api/badge?name={nonris}&postId={insert_postId}&theme={default})](https://github.com/TodayNonri/github-readme-tistory-card)
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api/badge?name={nonris}&postId={default}&theme={default})](https://github.com/TodayNonri/github-readme-tistory-card)
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=todaynonri)](https://solved.ac/todaynonri)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TodayNonri)](https://github.com/TodayNonri/github-readme-stats)
 
