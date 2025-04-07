@@ -6,9 +6,15 @@
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=todaynonri)](https://solved.ac/todaynonri)
 
-포트폴리오 영상▼
-https://youtu.be/thWdYIvLwF8     DirectX11 3D 팀 포트폴리오[아스달연대기 모작] / 역할(팀장) : 프레임워크, 이펙트, 카메라
-https://youtu.be/nSBvn2vW4C4     DirectX11 3D 개인 포트폴리오[나루토 시노비스트라이커 모작-서버연동] /C++, DirectX11, IOCP서버, Google Protobuf
-https://youtu.be/0TMtBDpN0WA     DirectX9 2.5D 팀 포트폴리오[리플 이펙트 모작] / 역할(팀장) : 프레임워크, 총기기능, 맵, UI, 보스몬스터
-https://youtu.be/ehHjFKY_s50     MFC 게임 에디터 / MFC, C, C++
-https://youtu.be/REmcURjQuOo     WinAPI [스타크래프트 모작] / WinAPI, C, C++
+포트폴리오 영상▼  
+
+https://youtu.be/thWdYIvLwF8     DirectX11 3D 팀 포트폴리오[아스달연대기 모작] / 역할(팀장) : 프레임워크, 이펙트, 카메라  
+
+https://youtu.be/nSBvn2vW4C4     DirectX11 3D 개인 포트폴리오[나루토 시노비스트라이커 모작-서버연동] /C++, DirectX11, IOCP서버, Google Protobuf  
+
+https://youtu.be/0TMtBDpN0WA     DirectX9 2.5D 팀 포트폴리오[리플 이펙트 모작] / 역할(팀장) : 프레임워크, 총기기능, 맵, UI, 보스몬스터  
+
+https://youtu.be/ehHjFKY_s50     MFC 게임 에디터 / MFC, C, C++  
+
+https://youtu.be/REmcURjQuOo     WinAPI [스타크래프트 모작] / WinAPI, C, C++  
+
