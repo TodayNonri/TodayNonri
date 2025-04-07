@@ -2,7 +2,7 @@
 
 <h1>게임개발자 지망생</h1>
 
-[![Gmail Badge](https://img.shields.io/badge/-k.yelae95@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:k.yelae95@gmail.com)](mailto:k.yelae95@gmail.com) [![Github Badge](https://img.shields.io/badge/-TodayNonri-grey?style=flat&logo=github&logoColor=white&link=https://github.com/TodayNonri/)](https://www.github.com/TodayNonri/) [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api/badge?name=nonris&postId=default&theme=default)](https://nonris.tistory.com/) <p align='left'></p><p align='left'>
+[![Gmail Badge](https://img.shields.io/badge/-k.yelae95@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:k.yelae95@gmail.com)](mailto:k.yelae95@gmail.com) [![Github Badge](https://img.shields.io/badge/-TodayNonri-grey?style=flat&logo=github&logoColor=white&link=https://github.com/TodayNonri/)](https://www.github.com/TodayNonri/) [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api/badge?name=TStory&postId=default&theme=default)](https://nonris.tistory.com/) <p align='left'></p><p align='left'>
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=todaynonri)](https://solved.ac/todaynonri)
 
