@@ -6,6 +6,8 @@
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=todaynonri)](https://solved.ac/todaynonri)
 
+<!--
+
 
 <h3>포트폴리오 영상▼</h3>
 
@@ -28,4 +30,4 @@
 <h4>WinAPI [스타크래프트 모작] / WinAPI, C, C++  </h4>  
 
 [![Video Label](http://img.youtube.com/vi/REmcURjQuOo/0.jpg)](https://youtu.be/REmcURjQuOo)
-
+-->
